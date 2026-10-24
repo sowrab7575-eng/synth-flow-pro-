@@ -1,0 +1,3 @@
+Synth-Flow Pro is a simulation-based proof of concept for a hybrid electric vehicle powertrain. It combines a hydrogen fuel cell, a proposed structural battery (one that stores energy while also serving as part of the vehicle body), and an intelligent energy controller that decides how power flows between them in real time.
+
+The project is a simulation only. No physical prototype has been built. Its goal is to show, with measurable results, how different energy-management strategies affect vehicle efficiency
